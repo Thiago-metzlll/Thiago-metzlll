@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="Foco" src="https://img.shields.io/badge/foco-desenvolvimento_full--stack-5757DA?style=flat-square&labelColor=16161d">
-  <img alt="Stack principal" src="https://img.shields.io/badge/stack_principal-TypeScript-5757DA?style=flat-square&labelColor=16161d&logo=typescript&logoColor=white">
+  <img alt="Stack principal" src="https://img.shields.io/badge/stack_principal-TypeScript-5757DA?style=flat-square&labelColor=16161d">
   <img alt="Disponibilidade" src="https://img.shields.io/badge/disponível_para-estágio_e_júnior-5757DA?style=flat-square&labelColor=16161d">
 </p>
 
@@ -83,15 +83,6 @@ passei para React e hoje trabalho principalmente com TypeScript, NestJS, Prisma 
 | **[QuizGeo-React](https://github.com/Thiago-metzlll/QuizGeo-React-)** | Quiz de geografia com controle de estado, rotas e pontuação | React · styled-components · Sass |
 | **[ecommerce-front](https://github.com/Thiago-metzlll/ecommerce-front)** | Interface de e-commerce com navegação entre catálogo e carrinho | React · React Router |
 | **[Portfolio](https://github.com/Thiago-metzlll/Portfolio)** | Portfólio pessoal — [ver online](https://portfolio-thiago-metzler.vercel.app/) | React · Parcel |
-
----
-
-## GitHub
-
-<p align="left">
-  <img alt="Estatísticas do GitHub" height="160" src="https://github-readme-stats.vercel.app/api?username=Thiago-metzlll&show_icons=true&hide_border=true&bg_color=16161d&title_color=5757DA&icon_color=5757DA&text_color=c9d1d9">
-  <img alt="Linguagens mais usadas" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-metzlll&layout=compact&hide_border=true&bg_color=16161d&title_color=5757DA&text_color=c9d1d9">
-</p>
 
 ---
 
