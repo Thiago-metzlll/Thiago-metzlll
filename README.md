@@ -1,20 +1,19 @@
-<h1 align="center">Thiago Metzler</h1>
+<h1 align="left">Thiago Metzler</h1>
 
-<p align="center">
-  <strong>Estudante de programação web pelo Senac-PR</strong><br>
-  <sub>Francisco Beltrão, Paraná · Brasil</sub>
+<p align="left">
+  <strong>Estudante de programação web pelo Senac-PR</strong> · Francisco Beltrão, Paraná
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="Foco" src="https://img.shields.io/badge/foco-desenvolvimento_full--stack-5757DA?style=flat-square&labelColor=16161d">
   <img alt="Stack principal" src="https://img.shields.io/badge/stack_principal-TypeScript-5757DA?style=flat-square&labelColor=16161d">
   <img alt="Disponibilidade" src="https://img.shields.io/badge/disponível_para-estágio_e_júnior-5757DA?style=flat-square&labelColor=16161d">
 </p>
 
-<p align="center">
-  <a href="https://portfolio-thiago-metzler.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-5757DA?style=for-the-badge&labelColor=16161d&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiago-metzler-2a2529397"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-5757DA?style=for-the-badge&labelColor=16161d&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:thiagostopassola@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-5757DA?style=for-the-badge&labelColor=16161d&logo=gmail&logoColor=white"></a>
+<p align="left">
+  <a href="https://portfolio-thiago-metzler.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-5757DA?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiago-metzler-2a2529397"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-5757DA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:thiagostopassola@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-5757DA?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -94,6 +93,8 @@ passei para React e hoje trabalho principalmente com TypeScript, NestJS, Prisma 
 
 ---
 
-<p align="center">
-  <sub>Aberto a oportunidades de estágio e vagas júnior — <a href="mailto:thiagostopassola@gmail.com">thiagostopassola@gmail.com</a></sub>
-</p>
+## Contato
+
+Aberto a oportunidades de estágio e vagas júnior.
+
+**[thiagostopassola@gmail.com](mailto:thiagostopassola@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/thiago-metzler-2a2529397) · [Portfólio](https://portfolio-thiago-metzler.vercel.app/)
