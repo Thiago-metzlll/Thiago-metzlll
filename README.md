@@ -44,22 +44,27 @@ Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1c1c26?style=flat-square&labelColor=16161d&logo=nodedotjs&logoColor=5FA04E">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1c1c26?style=flat-square&labelColor=16161d&logo=prisma&logoColor=E6E6E6">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1c1c26?style=flat-square&labelColor=16161d&logo=postgresql&logoColor=4169E1">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1c1c26?style=flat-square&labelColor=16161d&logo=firebase&logoColor=FFCA28">
   <img alt="JWT" src="https://img.shields.io/badge/JWT-1c1c26?style=flat-square&labelColor=16161d&logo=jsonwebtokens&logoColor=E6E6E6">
   <img alt="Passport" src="https://img.shields.io/badge/Passport-1c1c26?style=flat-square&labelColor=16161d&logo=passport&logoColor=34E27A">
   <img alt="class-validator" src="https://img.shields.io/badge/class--validator-1c1c26?style=flat-square&labelColor=16161d&logo=typescript&logoColor=3178C6">
 </p>
 
-#### Ferramentas e infra
+#### Ferramentas
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-1c1c26?style=flat-square&labelColor=16161d&logo=git&logoColor=F05032">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1c1c26?style=flat-square&labelColor=16161d&logo=github&logoColor=E6E6E6">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-1c1c26?style=flat-square&labelColor=16161d&logo=jest&logoColor=C21325">
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-1c1c26?style=flat-square&labelColor=16161d&logo=vitest&logoColor=6E9F18">
+</p>
+
+#### Infra e deploy
+
+<p>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1c1c26?style=flat-square&labelColor=16161d&logo=vercel&logoColor=E6E6E6">
   <img alt="Railway" src="https://img.shields.io/badge/Railway-1c1c26?style=flat-square&labelColor=16161d&logo=railway&logoColor=E6E6E6">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1c1c26?style=flat-square&labelColor=16161d&logo=supabase&logoColor=3FCF8E">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1c1c26?style=flat-square&labelColor=16161d&logo=firebase&logoColor=FFCA28">
 </p>
 
 ---
