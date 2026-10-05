@@ -27,11 +27,13 @@ Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-1c1c26?style=flat-square&labelColor=16161d&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1c1c26?style=flat-square&labelColor=16161d&logo=nextdotjs&logoColor=E6E6E6">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1c1c26?style=flat-square&labelColor=16161d&logo=typescript&logoColor=3178C6">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1c1c26?style=flat-square&labelColor=16161d&logo=javascript&logoColor=F7DF1E">
   <img alt="Expo" src="https://img.shields.io/badge/Expo-1c1c26?style=flat-square&labelColor=16161d&logo=expo&logoColor=E6E6E6">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-1c1c26?style=flat-square&labelColor=16161d&logo=vite&logoColor=646CFF">
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-1c1c26?style=flat-square&labelColor=16161d&logo=reactrouter&logoColor=CA4245">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1c1c26?style=flat-square&labelColor=16161d&logo=tailwindcss&logoColor=06B6D4">
   <img alt="Sass" src="https://img.shields.io/badge/Sass-1c1c26?style=flat-square&labelColor=16161d&logo=sass&logoColor=CC6699">
   <img alt="styled-components" src="https://img.shields.io/badge/styled--components-1c1c26?style=flat-square&labelColor=16161d&logo=styledcomponents&logoColor=DB7093">
   <img alt="CSS Modules" src="https://img.shields.io/badge/CSS_Modules-1c1c26?style=flat-square&labelColor=16161d&logo=cssmodules&logoColor=E6E6E6">
@@ -47,6 +49,7 @@ Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter
   <img alt="JWT" src="https://img.shields.io/badge/JWT-1c1c26?style=flat-square&labelColor=16161d&logo=jsonwebtokens&logoColor=E6E6E6">
   <img alt="Passport" src="https://img.shields.io/badge/Passport-1c1c26?style=flat-square&labelColor=16161d&logo=passport&logoColor=34E27A">
   <img alt="class-validator" src="https://img.shields.io/badge/class--validator-1c1c26?style=flat-square&labelColor=16161d&logo=typescript&logoColor=3178C6">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-1c1c26?style=flat-square&labelColor=16161d&logo=swagger&logoColor=85EA2D">
 </p>
 
 #### Ferramentas
@@ -69,14 +72,57 @@ Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter
 
 ---
 
-## Projetos
+## Projetos em destaque
+
+### [Urbeos](https://urbeosmun.com.br/presentation) · Integração e inteligência municipal
+
+Plataforma multi-prefeitura que conecta o cidadão à gestão municipal. Projeto participante da pré-incubação da Unihub.
+
+- **Portal do Cidadão:** abertura de protocolos com geolocalização e triagem automática por setor e por esfera de responsabilidade (municipal, estadual ou concessionária), além de estoque da Farmácia Popular, linhas de ônibus, mapa de serviços públicos e assistente virtual que consulta os dados reais do município.
+- **Central de Governança:** dashboard de BI com mapas de calor, territórios importados da malha do IBGE, análise do painel por IA e fluxo de execução com tarefas dependentes para encontrar gargalos.
+- **Arquitetura:** dados isolados por tenant no Postgres e dois PWAs instaláveis (cidadão e painel). A versão nativa em Expo está em andamento.
+
+`React 19` · `Vite` · `TypeScript` · `React Query` · `Leaflet` · `Recharts` · `NestJS` · `Prisma` · `PostgreSQL` · `Supabase` · `PWA`
+
+**[Ver online](https://urbeosmun.com.br)**
+
+### [Encontre Saúde (app mobile)](https://github.com/senac-pr-fb/encontre_saude/tree/feat/monorepo-mobile)
+
+App de saúde para Francisco Beltrão com triagem de sintomas por IA, primeiros socorros, mapa de farmácias e ficha de saúde do usuário.
+É o Projeto Integrador da turma no Senac-PR, e eu construí a versão mobile, convertendo o site para React Native com Clean Architecture.
+A chave da IA fica só no servidor, numa Edge Function, e os dados são protegidos por RLS no Postgres.
+
+`React Native` · `Expo Router` · `TypeScript` · `React Query` · `Zod` · `Supabase` · `Firestore` · `Gemini / Claude`
+
+### Relatos · [front-end](https://github.com/Thiago-metzlll/frontRelatos) + [API](https://github.com/Thiago-metzlll/backendRelatos)
+
+Aplicação full stack de relatos, com posts, comentários e contas de usuário. O front em React consome a API REST em NestJS.
+Tem autenticação JWT em cookie httpOnly, senhas com bcrypt e documentação da API com Swagger.
+
+`React` · `TypeScript` · `Vite` · `Axios` · `NestJS` · `Prisma` · `PostgreSQL` · `Passport JWT` · `Firebase Admin`
+
+**[Ver online](https://front-relatos-two.vercel.app)** · [API](https://backend-three-nu-46.vercel.app)
+
+### [Webclínica](https://www.siteswebclin.com.br/) · Sites para clínicas e profissionais de saúde
+
+Sites prontos para clínicas e profissionais de saúde, com design editorial e de acordo com as regras de publicidade dos conselhos de classe.
+
+`Next.js` · `TypeScript` · `three.js` · `GLSL`
+
+**[Ver online](https://www.siteswebclin.com.br/)**
+
+---
+
+## Outros projetos
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[APISistDeTarefas](https://github.com/Thiago-metzlll/APISistDeTarefas)** | API de gerenciamento de tarefas, com validação por DTO e testes automatizados | NestJS · class-validator · Jest |
 | **[populardacopa](https://github.com/Thiago-metzlll/populardacopa)** | App mobile sobre a Copa do Mundo 2026, com dados persistidos localmente e organização em camadas | React Native · Expo Router · SQLite |
-| **[vestindo_aromas](https://github.com/Thiago-metzlll/vestindo_aromas)** | Landing page com painel de edição de conteúdo e dados sincronizados via planilha | React 19 · Vite |
-| **[QuizGeo-React](https://github.com/Thiago-metzlll/QuizGeo-React-)** | Quiz de geografia com controle de estado, rotas e pontuação | React · styled-components · Sass |
+| **[newApiNest](https://github.com/Thiago-metzlll/newApiNest)** | API multi-database: dados relacionais no PostgreSQL e produtos no Firestore — **[ver online](https://new-api-nest.vercel.app)** | NestJS · Prisma · Firebase Admin |
+| **[APISistDeTarefas](https://github.com/Thiago-metzlll/APISistDeTarefas)** | API de gerenciamento de tarefas, com validação por DTO e testes automatizados | NestJS · class-validator · Jest |
+| **[vestindo_aromas](https://github.com/Thiago-metzlll/vestindo_aromas)** | Landing page com painel de edição de conteúdo e dados sincronizados via planilha — **[ver online](https://vestindo-aromas.vercel.app)** | React 19 · Vite |
+| **[bazarEconomico](https://github.com/Thiago-metzlll/bazarEconomico)** | <!-- TODO: descrição --> **[Ver online](https://bazar-economico.vercel.app)** | React 19 · Vite |
+| **[mecanica](https://github.com/Thiago-metzlll/mecanica)** | <!-- TODO: descrição --> **[Ver online](https://mecanica-seven-sigma.vercel.app)** | React · Tailwind CSS |
 | **Portfólio** | Portfólio pessoal — **[ver online](https://portfolio-thiago-metzler.vercel.app/)** | React · Parcel |
 
 ---
@@ -86,6 +132,7 @@ Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter
 - Arquitetura de back-end: validação por DTO, autorização por papel e testes automatizados
 - Modelagem de dados relacional com Prisma e consistência entre entidades
 - Deploy e ambiente de produção (Vercel, Railway, Supabase)
+- Integração com IA no back-end, com as chaves isoladas no servidor
 
 ---
 
