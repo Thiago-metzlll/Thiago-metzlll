@@ -118,12 +118,12 @@ Sites prontos para clínicas e profissionais de saúde, com design editorial e d
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
 | **[populardacopa](https://github.com/Thiago-metzlll/populardacopa)** | App mobile sobre a Copa do Mundo 2026, com dados persistidos localmente e organização em camadas | React Native · Expo Router · SQLite |
-| **[newApiNest](https://github.com/Thiago-metzlll/newApiNest)** | API multi-database: dados relacionais no PostgreSQL e produtos no Firestore — **[ver online](https://new-api-nest.vercel.app)** | NestJS · Prisma · Firebase Admin |
+| **[newApiNest](https://github.com/Thiago-metzlll/newApiNest)** | API multi-database: dados relacionais no PostgreSQL e produtos no Firestore. **[Ver online](https://new-api-nest.vercel.app)** | NestJS · Prisma · Firebase Admin |
 | **[APISistDeTarefas](https://github.com/Thiago-metzlll/APISistDeTarefas)** | API de gerenciamento de tarefas, com validação por DTO e testes automatizados | NestJS · class-validator · Jest |
-| **[vestindo_aromas](https://github.com/Thiago-metzlll/vestindo_aromas)** | Landing page com painel de edição de conteúdo e dados sincronizados via planilha — **[ver online](https://vestindo-aromas.vercel.app)** | React 19 · Vite |
+| **[vestindo_aromas](https://github.com/Thiago-metzlll/vestindo_aromas)** | Landing page com painel de edição de conteúdo e dados sincronizados via planilha. **[Ver online](https://vestindo-aromas.vercel.app)** | React 19 · Vite |
 | **[bazarEconomico](https://github.com/Thiago-metzlll/bazarEconomico)** | <!-- TODO: descrição --> **[Ver online](https://bazar-economico.vercel.app)** | React 19 · Vite |
 | **[mecanica](https://github.com/Thiago-metzlll/mecanica)** | <!-- TODO: descrição --> **[Ver online](https://mecanica-seven-sigma.vercel.app)** | React · Tailwind CSS |
-| **Portfólio** | Portfólio pessoal — **[ver online](https://portfolio-thiago-metzler.vercel.app/)** | React · Parcel |
+| **Portfólio** | Portfólio pessoal. **[Ver online](https://portfolio-thiago-metzler.vercel.app/)** | React · Parcel |
 
 ---
 
