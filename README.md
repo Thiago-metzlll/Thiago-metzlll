@@ -14,10 +14,10 @@
 
 ## Sobre
 
-Estudo programação web pelo Senac-PR e construo projetos próprios para consolidar o que aprendo.
-Meu caminho tem sido ir do front-end para o back-end: comecei com HTML, CSS e JavaScript,
+Estudo programação web pelo Senac-PR e construí alguns projetos para consolidar o aprendizado.
+Ao longo do curso iniciei no front-end para o back-end: comecei com HTML, CSS e JavaScript,
 passei para React e hoje trabalho principalmente com TypeScript, NestJS, Prisma e PostgreSQL.
-Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter e Swift.
+Além disso, iniciei projetos mobile com React Native. Tenho noções de Flutter e Swift. 
 
 ---
 
